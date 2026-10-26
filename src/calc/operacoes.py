@@ -1,4 +1,4 @@
-"""Operações aritméticas simples."""
+"""Operações aritméticas simples.."""
 
 
 def soma(a: float, b: float) -> float:
